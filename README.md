@@ -1,2 +1,2 @@
 # StockDividend
-주식배당금 과제
+3주차 실습과제
